@@ -10,7 +10,7 @@ Este projeto é uma aplicação fullstack que simula um feed de postagens estilo
 - Laravel 12
 - Laravel Sanctum (autenticação via sessão)
 - PHP 8.2
-- PostgreSql
+- PostgreSQL
 - Composer
 
 ### Frontend (React)
