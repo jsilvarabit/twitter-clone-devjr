@@ -49,9 +49,9 @@ cp .env.example .env
 ```
 Edite o .env com suas configurações de banco de dados:
 ```bash
-DB_DATABASE=postservice
-DB_USERNAME=root
-DB_PASSWORD=
+DB_DATABASE=twitter_clone
+DB_USERNAME=postgres
+DB_PASSWORD=07042018
 
 SESSION_DOMAIN=localhost
 SANCTUM_STATEFUL_DOMAINS=localhost:5173
